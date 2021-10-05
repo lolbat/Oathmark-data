@@ -1,0 +1,12 @@
+name,cost,champion,commander,spellcaster,description
+Armour of Starsilver,50,FALSE,FALSE,FALSE,Ignore Damage at 7+
+Banner of Courage,60,FALSE,FALSE,FALSE,Whole Unit Courage +1
+Boots of Striding,30,FALSE,FALSE,FALSE,Gains Nimble
+Cloak of Discorporation,100,FALSE,FALSE,FALSE,Gains Discorporate
+Crown or Regeneration,50,FALSE,FALSE,FALSE,Gains Regeneration (1)
+Golden String Bow,50,TRUE,FALSE,FALSE,Use Champion Die in Shooting attack.
+Ring of Shielding,50,FALSE,FALSE,FALSE,Gains Shielding +1
+Ring of Spellcasting,30,FALSE,FALSE,TRUE,Gains 1 extra Spell
+Sceptre of Command,75,FALSE,TRUE,FALSE,"Command Range 9"". "
+Sword of Flames,50,TRUE,FALSE,FALSE,May reroll Chammpion Die results of 1
+Sword of Starsilver,50,TRUE,FALSE,FALSE,Champion Die roll +1

@@ -1,0 +1,19 @@
+[
+    {
+        "unit": "Dwarf Engineer",
+        "options": [
+            {"optionName": "Expert Engineer",
+            "cost": 30,
+            "stats": false,
+            "traits": {
+                "add": [
+                    {"name":"Expert Engineer", "value":0}
+                ], 
+                "remove":[
+                    {"name":"Engineer", "value":0}
+                ]
+            }
+        }
+        ]
+    }
+]

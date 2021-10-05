@@ -1,0 +1,43 @@
+Unit,Option,Cost,Stats,Traits
+Human King,Horse,40,"M:2, D:3",
+Human Prince,Horse,30,"M:2, D:3",
+Human General,Horse,30,"M:2, D:3",
+Human Captain,Horse,20,"M:2, D:3",
+Human Champion,Horse,20,"M:2, D:3",
+Elf King or Queen,Horse,40,"M:2, D:2",
+Elf Price or Princess,Horse,30,"M:2, D:2",
+Elf General,Horse,30,"M:2, D:2",
+Elf Captain,Horse,20,"M:2, D:2",
+Elf Champion,Horse,20,"M:2, D:2",
+Goblin King,Wolf Mount,40,"M:2, D:2",
+Goblin Advisor,Wolf Mount,30,"M:2, D:2",
+Goblin General,Wolf Mount,30,"M:2, D:2",
+Goblin Captain,Wolf Mount,20,"M:2, D:2",
+Goblin Champion,Wolf Mount,20,"M:2, D:2",
+Orc King,Wolf Mount,40,"M:2, D:2",
+Orc Prince,Wolf Mount,30,"M:2, D:2",
+Orc General,Wolf Mount,30,"M:2, D:2",
+Orc Captain,Wolf Mount,20,"M:2, D:2",
+Orc Champion,Wolf Mount,20,"M:2, D:2",
+Dragon,Wings,100,,Flying
+Dwarf Engineer,Expert Engineer,30,,Expert Engineer
+Human Engineer,Figures (10),60,modelCount: 5,
+Human Engineer,Expert Engineer,40,,Expert Engineer
+Elf Engineer,Expert Engineer,20,,Expert Engineer
+Goblin Engineer,Expert Engineer,50,,Expert Engineer
+Orc Engineer,Expert Engineer,50,,Expert Engineer
+Orc Engineer,Figures (10),65,modelCount: 5,
+Revenant King,Undead Horse,40,"M:2, D:3",
+Revenant King,Chariot,100,"M:1,D:3","Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement "
+Revenant Prince,Undead Horse,30,"M:2, D:3",
+Revenant Prince,Chariot,120,"M:1,D:3","Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement"
+Revenant General,Undead Horse,30,"M:2, D:3",
+Revenant General,Chariot,120,"M:1,D:3","Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement"
+Revenant Captain,Undead Horse,20,"M:2, D:3",
+Revenant Captain,Chariot,140,"M:1,D:3","Charge (3), Wild Charge, Large, Limited Manoeuvres, Limited Movement"
+Revenant Champion,Undead Horse,20,"M:2, D:3",
+Revenant Champion,Chariot,140,"M:1,D:3","Charge (2), Wild Charge, Large, Limited Manoeuvres, Limited Movement "
+Revenant Chariot,Archer,25,S:1,
+Living Statue,Living Oathmark,20,,Living Oathmark
+Colossus,Living Oathmark,60,,Living Oathmark
+Animate Idol,Living Oathmark,30,,Living Oathmark

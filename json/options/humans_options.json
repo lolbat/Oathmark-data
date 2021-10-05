@@ -1,0 +1,31 @@
+[{
+	"unit": "Human King",
+	"options": [
+		{"optionName": "Horse","cost": 40,"stats": [["move",2], ["defence",3]],"traits": false}
+	]
+},
+{
+	"unit": "Human Prince",
+	"options": [{
+		"optionName": "Horse","cost": 30,"stats": [["move",2], ["defence",3]],"traits": false}
+	]
+},
+{
+	"unit": "Human General",
+	"options": [{
+		"optionName": "Horse","cost": 30,"stats": [["move",2], ["defence",3]],"traits": false}
+	]
+},
+{
+	"unit": "Human Captain",
+	"options": [{
+		"optionName": "Horse","cost": 20,"stats": [["move",2], ["defence",3]],"traits": false}
+	]
+},
+{
+	"unit": "Human Champion",
+	"options": [{
+		"optionName": "Horse","cost": 20,"stats": [["move",2], ["defence",3]],"traits": false}
+	]
+}
+]

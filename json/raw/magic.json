@@ -1,0 +1,13 @@
+[
+{"name":"Armour of Starsilver","cost":"50","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Ignore Damage at 7+"},
+{"name":"Banner of Courage","cost":"60","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Whole Unit Courage +1"},
+{"name":"Boots of Striding","cost":"30","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Gains Nimble"},
+{"name":"Cloak of Discorporation","cost":"100","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Gains Discorporate"},
+{"name":"Crown or Regeneration","cost":"50","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Gains Regeneration (1)"},
+{"name":"Golden String Bow","cost":"50","champion":"TRUE","commander":"FALSE","spellcaster":"FALSE","description":"Use Champion Die in Shooting attack."},
+{"name":"Ring of Shielding","cost":"50","champion":"FALSE","commander":"FALSE","spellcaster":"FALSE","description":"Gains Shielding +1"},
+{"name":"Ring of Spellcasting","cost":"30","champion":"FALSE","commander":"FALSE","spellcaster":"TRUE","description":"Gains 1 extra Spell"},
+{"name":"Sceptre of Command","cost":"75","champion":"FALSE","commander":"TRUE","spellcaster":"FALSE","description":"Command Range 9\". "},
+{"name":"Sword of Flames","cost":"50","champion":"TRUE","commander":"FALSE","spellcaster":"FALSE","description":"May reroll Chammpion Die results of 1"},
+{"name":"Sword of Starsilver","cost":"50","champion":"TRUE","commander":"FALSE","spellcaster":"FALSE","description":"Champion Die roll +1"}
+]
